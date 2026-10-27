@@ -13,4 +13,4 @@ Gameplay tuning for NBA 2K27 (PC, offline).
 The exe reads `latest.json` in this repo and installs the file built for your exact game version.
 After a 2K update, run the exe again once the matching CoY Engine file is published here.
 
-Support the project: https://ko-fi.com/coy_project
+Support the project: https://ko-fi.com/sheilevrai
