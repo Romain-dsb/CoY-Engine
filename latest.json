@@ -5,10 +5,10 @@
     {
       "guid": "6CEB84EE-0ABC-B2A9-5610-878512A9D1DC",
       "size": 86664,
-      "version": "1.26",
+      "version": "1.29",
       "game_update": "21 Oct 2026",
-      "url": "https://raw.githubusercontent.com/Romain-dsb/CoY-Engine/main/files/v1.26/6CEB84EE-0ABC-B2A9-5610-878512A9D1DC",
-      "sha256": "1af245b203be576d9053ce35da7849033e18c4d40dcd171ab1db2176bcd5e315",
+      "url": "https://raw.githubusercontent.com/Romain-dsb/CoY-Engine/main/files/v1.29/6CEB84EE-0ABC-B2A9-5610-878512A9D1DC",
+      "sha256": "e4565edb0d6d7c2f1d5e52a04eaf7f22775f1ec356c741536dfc5076e39f3b8a",
       "original_sha256": "3bdc8e3e8f4d773cffb64b2957744845575eacd524850ad445b13cf76c43c2f1"
     }
   ],
@@ -18,6 +18,7 @@
     "5a6a513d24135c45d2a97af609e57b2089e80b3e4739c81467771ecae46287f2": "1.21",
     "8d5f69de0c1cd94028edf0a3934c1ccfc6e449ae6ca85e05b423e5df01247e3b": "1.22",
     "1af245b203be576d9053ce35da7849033e18c4d40dcd171ab1db2176bcd5e315": "1.26",
-    "38d98fdaec2eeb371bd1e81cafbb7b702d081ae2a12d6dd23d091e68b5c85b27": "1.24b"
+    "38d98fdaec2eeb371bd1e81cafbb7b702d081ae2a12d6dd23d091e68b5c85b27": "1.24b",
+    "e4565edb0d6d7c2f1d5e52a04eaf7f22775f1ec356c741536dfc5076e39f3b8a": "1.29"
   }
 }
