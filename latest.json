@@ -5,11 +5,21 @@
     {
       "guid": "6CEB84EE-0ABC-B2A9-5610-878512A9D1DC",
       "size": 86664,
-      "version": "1.30",
+      "version": "1.31",
       "game_update": "21 Oct 2026",
-      "url": "https://raw.githubusercontent.com/Romain-dsb/CoY-Engine/main/files/v1.30/6CEB84EE-0ABC-B2A9-5610-878512A9D1DC",
-      "sha256": "c3cf9b48aea1e1e8cc49b2e55448f6954cdf9ade835742c73df845c97538589a",
-      "original_sha256": "3bdc8e3e8f4d773cffb64b2957744845575eacd524850ad445b13cf76c43c2f1"
+      "url": "https://raw.githubusercontent.com/Romain-dsb/CoY-Engine/main/files/v1.31/6CEB84EE-0ABC-B2A9-5610-878512A9D1DC",
+      "sha256": "b2fc30605ba7d3fc225f6752dd9ef6100dce0e99ccd9a6d71a5204b914ccc14c",
+      "original_sha256": "3bdc8e3e8f4d773cffb64b2957744845575eacd524850ad445b13cf76c43c2f1",
+      "extras": [
+        {
+          "path": "franchisetuning/franchisetuning_postrelease.iff",
+          "guid": "5BDDE8C0-6F99-4744-A756-480B440CADA1",
+          "size": 1288968,
+          "url": "https://raw.githubusercontent.com/Romain-dsb/CoY-Engine/main/files/v1.31/5BDDE8C0-6F99-4744-A756-480B440CADA1",
+          "sha256": "d8ce9730fff75c842bd1e00e48513d1937bb72cd5ff549759bacac4a23770e56",
+          "original_sha256": "fdc0d96cf96a3c8bca6b8b82e58c65a2e884bb3a36ba448a4ca4e7027304a2b0"
+        }
+      ]
     }
   ],
   "known_coy_sha256": {
@@ -20,6 +30,8 @@
     "1af245b203be576d9053ce35da7849033e18c4d40dcd171ab1db2176bcd5e315": "1.26",
     "38d98fdaec2eeb371bd1e81cafbb7b702d081ae2a12d6dd23d091e68b5c85b27": "1.24b",
     "e4565edb0d6d7c2f1d5e52a04eaf7f22775f1ec356c741536dfc5076e39f3b8a": "1.29",
-    "c3cf9b48aea1e1e8cc49b2e55448f6954cdf9ade835742c73df845c97538589a": "1.30"
+    "c3cf9b48aea1e1e8cc49b2e55448f6954cdf9ade835742c73df845c97538589a": "1.30",
+    "b2fc30605ba7d3fc225f6752dd9ef6100dce0e99ccd9a6d71a5204b914ccc14c": "1.31",
+    "d8ce9730fff75c842bd1e00e48513d1937bb72cd5ff549759bacac4a23770e56": "1.31"
   }
 }
