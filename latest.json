@@ -2,8 +2,8 @@
   "name": "CoY Engine",
   "message": "",
   "_note": "builds: frozen at v1.40 for installers up to 1.5.2. New versions go in builds_v2 only (installer 1.6+, licence checked at license_server).",
-  "license_server": "",
-  "buy_url": "https://ko-fi.com/sheilevrai",
+  "license_server": "https://coy-licence.sheitanlevrai.workers.dev",
+  "buy_url": "https://ko-fi.com/s/0dc5a7eaf4",
   "builds": [
     {
       "guid": "6CEB84EE-0ABC-B2A9-5610-878512A9D1DC",
