@@ -1,7 +1,7 @@
 {
   "name": "CoY Engine",
   "message": "",
-  "_note": "builds: frozen at v1.40 for installers up to 1.5.2. New versions go in builds_v2 only (installer 1.6+, licence checked at license_server).",
+  "_note": "builds: frozen at v1.40 for installers up to 1.5.2. New versions go in builds_v2 only (installer 1.6+, licence checked at license_server); their files are on the licence server (coy_licenses.py upload), handed out only to an address that passed a licence check.",
   "license_server": "https://coy-licence.sheitanlevrai.workers.dev",
   "buy_url": "https://ko-fi.com/s/0dc5a7eaf4",
   "builds": [
@@ -186,7 +186,7 @@
       "size": 86664,
       "version": "2.0",
       "game_update": "30 Oct 2026",
-      "url": "https://raw.githubusercontent.com/Romain-dsb/CoY-Engine/main/files/v2.0/6CEB84EE-0ABC-B2A9-5610-878512A9D1DC",
+      "url": "https://coy-licence.sheitanlevrai.workers.dev/file/475a9d29fe4fec2cc37ab417b82cc1bf60046e8556dc141daeb7c2335f56ae2b",
       "sha256": "475a9d29fe4fec2cc37ab417b82cc1bf60046e8556dc141daeb7c2335f56ae2b",
       "original_sha256": "3bdc8e3e8f4d773cffb64b2957744845575eacd524850ad445b13cf76c43c2f1",
       "extras": [
@@ -194,7 +194,7 @@
           "path": "franchisetuning/franchisetuning_postrelease.iff",
           "guid": "4E9C67A2-D0C8-314E-82CF-37CAE101A012",
           "size": 1289000,
-          "url": "https://raw.githubusercontent.com/Romain-dsb/CoY-Engine/main/files/v2.0/4E9C67A2-D0C8-314E-82CF-37CAE101A012",
+          "url": "https://coy-licence.sheitanlevrai.workers.dev/file/04da87a8e031812ba0404985ce2c84ed9943e534db3249c8597787483454a4b6",
           "sha256": "04da87a8e031812ba0404985ce2c84ed9943e534db3249c8597787483454a4b6",
           "original_sha256": "b14b91bd6617fde6005fe02aca31e4c08b4175b8aceef770343e3adae64342e3"
         }
@@ -202,7 +202,7 @@
       "game_files": [
         {
           "path": "mods/ai_metadata/motion_coaching.iff",
-          "url": "https://raw.githubusercontent.com/Romain-dsb/CoY-Engine/main/files/v1.34/mods/ai_metadata/motion_coaching.iff",
+          "url": "https://coy-licence.sheitanlevrai.workers.dev/file/c3bf9cb05757829317b51b08274b42c8a0803469079ead7a5189024798a200ec",
           "sha256": "c3bf9cb05757829317b51b08274b42c8a0803469079ead7a5189024798a200ec",
           "size": 3697212,
           "sync_path": "ai_metadata/motion_coaching.iff",
@@ -211,7 +211,7 @@
         },
         {
           "path": "mods/ai_metadata/gameplantool.iff",
-          "url": "https://raw.githubusercontent.com/Romain-dsb/CoY-Engine/main/files/v1.34/mods/ai_metadata/gameplantool.iff",
+          "url": "https://coy-licence.sheitanlevrai.workers.dev/file/392eea68c5d5c52242e8b97f67185d475cf753977184a55cadd2e856ca509976",
           "sha256": "392eea68c5d5c52242e8b97f67185d475cf753977184a55cadd2e856ca509976",
           "size": 170494,
           "sync_path": "ai_metadata/gameplantool.iff",
@@ -225,7 +225,7 @@
       "size": 86664,
       "version": "2.0",
       "game_update": "30 Oct 2026",
-      "url": "https://raw.githubusercontent.com/Romain-dsb/CoY-Engine/main/files/v2.0/6CEB84EE-0ABC-B2A9-5610-878512A9D1DC",
+      "url": "https://coy-licence.sheitanlevrai.workers.dev/file/475a9d29fe4fec2cc37ab417b82cc1bf60046e8556dc141daeb7c2335f56ae2b",
       "sha256": "475a9d29fe4fec2cc37ab417b82cc1bf60046e8556dc141daeb7c2335f56ae2b",
       "original_sha256": "3bdc8e3e8f4d773cffb64b2957744845575eacd524850ad445b13cf76c43c2f1",
       "extras": [
@@ -233,7 +233,7 @@
           "path": "franchisetuning/franchisetuning_postrelease.iff",
           "guid": "4E9C67A2-D0C8-314E-82CF-37CAE101A012",
           "size": 1289000,
-          "url": "https://raw.githubusercontent.com/Romain-dsb/CoY-Engine/main/files/v2.0/4E9C67A2-D0C8-314E-82CF-37CAE101A012",
+          "url": "https://coy-licence.sheitanlevrai.workers.dev/file/04da87a8e031812ba0404985ce2c84ed9943e534db3249c8597787483454a4b6",
           "sha256": "04da87a8e031812ba0404985ce2c84ed9943e534db3249c8597787483454a4b6",
           "original_sha256": "b14b91bd6617fde6005fe02aca31e4c08b4175b8aceef770343e3adae64342e3"
         }
