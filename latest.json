@@ -8,6 +8,13 @@
     "min": "2026-11-16",
     "url": "https://github.com/Romain-dsb/CoY-Engine/releases/latest"
   },
+  "animations": {
+    "version": "1",
+    "path": "mods/animations/nba_animations.iff",
+    "url": "https://github.com/Romain-dsb/CoY-Engine/releases/download/anim/nba_animations.iff",
+    "sha256": "e761c0963bb6f8bdf32c20844ef982a1db2be48a2f6a4fd26cd182d4779ce2a1",
+    "size": 505175659
+  },
   "builds": [
     {
       "guid": "6CEB84EE-0ABC-B2A9-5610-878512A9D1DC",
@@ -1789,6 +1796,7 @@
     "1ac5cf1c4f084669590c17a794ec3c5bf047ecbd7dc6d6d4fe96d756941f7a1c": "2.5.1",
     "09651d4977c17e3a3d2bed682c8dca020e7701246d30b49968e0ca4eeeca9cbf": "2.5.1",
     "cf34a7455359ccd222ff209fbda6c48e1b670744e5ae14d11803a698711bc682": "2.6",
-    "53f02f2c0dcc7ffbea3781ed491daf040c65bcdef65dd9881870fa3ef7cc4550": "2.7"
+    "53f02f2c0dcc7ffbea3781ed491daf040c65bcdef65dd9881870fa3ef7cc4550": "2.7",
+    "e761c0963bb6f8bdf32c20844ef982a1db2be48a2f6a4fd26cd182d4779ce2a1": "animations 1"
   }
 }
