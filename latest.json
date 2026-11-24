@@ -195,6 +195,278 @@
     {
       "guid": "97C82755-88E1-0EBA-705D-8EC4131716F4",
       "size": 86696,
+      "version": "2.8.1",
+      "game_update": "17 Nov 2026",
+      "url": "https://coy-licence.sheitanlevrai.workers.dev/file/1ac5cf1c4f084669590c17a794ec3c5bf047ecbd7dc6d6d4fe96d756941f7a1c",
+      "sha256": "1ac5cf1c4f084669590c17a794ec3c5bf047ecbd7dc6d6d4fe96d756941f7a1c",
+      "original_sha256": "806cce87a6dea2e689d99087a533f8699786af35d07c0c745f38aef5f5b6f27e",
+      "extras": [
+        {
+          "path": "franchisetuning/franchisetuning_postrelease.iff",
+          "guid": "18E43B21-4775-A4B6-511C-004DFF140D2A",
+          "size": 1289040,
+          "url": "https://coy-licence.sheitanlevrai.workers.dev/file/09651d4977c17e3a3d2bed682c8dca020e7701246d30b49968e0ca4eeeca9cbf",
+          "sha256": "09651d4977c17e3a3d2bed682c8dca020e7701246d30b49968e0ca4eeeca9cbf",
+          "original_sha256": "3d41ec9b9670316615e32e836b13ad117a5ce8e3b06f7662415fc7eb68312b8b"
+        }
+      ],
+      "game_files": [
+        {
+          "path": "mods/ai_metadata/motion_coaching.iff",
+          "url": "https://raw.githubusercontent.com/Romain-dsb/CoY-Engine/main/files/v2.8/mods/ai_metadata/motion_coaching.iff",
+          "sha256": "2e9669a8efc636f5abaf3ba87d1368b190f4dc79e52af91301d4745544572382",
+          "size": 3697212,
+          "sync_path": "ai_metadata/motion_coaching.iff",
+          "sync_guid": "4E869DC2-1E3F-8E67-9B01-B8EB57F99689",
+          "sync_size": 444752
+        },
+        {
+          "path": "mods/ai_metadata/gameplantool.iff",
+          "url": "https://raw.githubusercontent.com/Romain-dsb/CoY-Engine/main/files/v2.8/mods/ai_metadata/gameplantool.iff",
+          "sha256": "ef57efe29ae932c6495e2e42380da3b7d933d2bef57876f8318d2ed253403083",
+          "size": 170494,
+          "sync_path": "ai_metadata/gameplantool.iff",
+          "sync_guid": "97EB174A-AA84-C140-26FA-EF6E773F719C",
+          "sync_size": 19968
+        }
+      ],
+      "live": {
+        "url": "https://coy-licence.sheitanlevrai.workers.dev/file/962ff69016e07c52c2f0f897fcb7c95d9ac986b33ca763b00e51d666b1c23ca4",
+        "sha256": "962ff69016e07c52c2f0f897fcb7c95d9ac986b33ca763b00e51d666b1c23ca4",
+        "size": 6833
+      }
+    },
+    {
+      "guid": "97C82755-88E1-0EBA-705D-8EC4131716F4",
+      "size": 86696,
+      "version": "2.8.1",
+      "game_update": "17 Nov 2026",
+      "url": "https://coy-licence.sheitanlevrai.workers.dev/file/1ac5cf1c4f084669590c17a794ec3c5bf047ecbd7dc6d6d4fe96d756941f7a1c",
+      "sha256": "1ac5cf1c4f084669590c17a794ec3c5bf047ecbd7dc6d6d4fe96d756941f7a1c",
+      "original_sha256": "806cce87a6dea2e689d99087a533f8699786af35d07c0c745f38aef5f5b6f27e",
+      "extras": [
+        {
+          "path": "franchisetuning/franchisetuning_postrelease.iff",
+          "guid": "18E43B21-4775-A4B6-511C-004DFF140D2A",
+          "size": 1289040,
+          "url": "https://coy-licence.sheitanlevrai.workers.dev/file/09651d4977c17e3a3d2bed682c8dca020e7701246d30b49968e0ca4eeeca9cbf",
+          "sha256": "09651d4977c17e3a3d2bed682c8dca020e7701246d30b49968e0ca4eeeca9cbf",
+          "original_sha256": "3d41ec9b9670316615e32e836b13ad117a5ce8e3b06f7662415fc7eb68312b8b"
+        }
+      ],
+      "live": {
+        "url": "https://coy-licence.sheitanlevrai.workers.dev/file/962ff69016e07c52c2f0f897fcb7c95d9ac986b33ca763b00e51d666b1c23ca4",
+        "sha256": "962ff69016e07c52c2f0f897fcb7c95d9ac986b33ca763b00e51d666b1c23ca4",
+        "size": 6833
+      }
+    },
+    {
+      "guid": "6CEB84EE-0ABC-B2A9-5610-878512A9D1DC",
+      "size": 86664,
+      "version": "2.8.1",
+      "game_update": "5 Nov 2026",
+      "url": "https://coy-licence.sheitanlevrai.workers.dev/file/622d81aeeceed6e471ab334fe32871bffb9be8ced88ace2d180536217114e0c3",
+      "sha256": "622d81aeeceed6e471ab334fe32871bffb9be8ced88ace2d180536217114e0c3",
+      "original_sha256": "3bdc8e3e8f4d773cffb64b2957744845575eacd524850ad445b13cf76c43c2f1",
+      "extras": [
+        {
+          "path": "franchisetuning/franchisetuning_postrelease.iff",
+          "guid": "F9D71C32-91FC-52AF-0555-8BD01FDADC55",
+          "size": 1289016,
+          "url": "https://coy-licence.sheitanlevrai.workers.dev/file/cb67facb459d66eef0620346d484c81468a5fd581280d5d59cff1e8d48f007f6",
+          "sha256": "cb67facb459d66eef0620346d484c81468a5fd581280d5d59cff1e8d48f007f6",
+          "original_sha256": "3fc45443ff45c05787f81cf97e932902acf5351f99a9a35a092bccb12b8680f6"
+        }
+      ],
+      "game_files": [
+        {
+          "path": "mods/ai_metadata/motion_coaching.iff",
+          "url": "https://raw.githubusercontent.com/Romain-dsb/CoY-Engine/main/files/v2.8/mods/ai_metadata/motion_coaching.iff",
+          "sha256": "2e9669a8efc636f5abaf3ba87d1368b190f4dc79e52af91301d4745544572382",
+          "size": 3697212,
+          "sync_path": "ai_metadata/motion_coaching.iff",
+          "sync_guid": "4E869DC2-1E3F-8E67-9B01-B8EB57F99689",
+          "sync_size": 444752
+        },
+        {
+          "path": "mods/ai_metadata/gameplantool.iff",
+          "url": "https://raw.githubusercontent.com/Romain-dsb/CoY-Engine/main/files/v2.8/mods/ai_metadata/gameplantool.iff",
+          "sha256": "ef57efe29ae932c6495e2e42380da3b7d933d2bef57876f8318d2ed253403083",
+          "size": 170494,
+          "sync_path": "ai_metadata/gameplantool.iff",
+          "sync_guid": "97EB174A-AA84-C140-26FA-EF6E773F719C",
+          "sync_size": 19968
+        }
+      ],
+      "live": {
+        "url": "https://coy-licence.sheitanlevrai.workers.dev/file/962ff69016e07c52c2f0f897fcb7c95d9ac986b33ca763b00e51d666b1c23ca4",
+        "sha256": "962ff69016e07c52c2f0f897fcb7c95d9ac986b33ca763b00e51d666b1c23ca4",
+        "size": 6833
+      }
+    },
+    {
+      "guid": "6CEB84EE-0ABC-B2A9-5610-878512A9D1DC",
+      "size": 86664,
+      "version": "2.8.1",
+      "game_update": "5 Nov 2026",
+      "url": "https://coy-licence.sheitanlevrai.workers.dev/file/622d81aeeceed6e471ab334fe32871bffb9be8ced88ace2d180536217114e0c3",
+      "sha256": "622d81aeeceed6e471ab334fe32871bffb9be8ced88ace2d180536217114e0c3",
+      "original_sha256": "3bdc8e3e8f4d773cffb64b2957744845575eacd524850ad445b13cf76c43c2f1",
+      "extras": [
+        {
+          "path": "franchisetuning/franchisetuning_postrelease.iff",
+          "guid": "F9D71C32-91FC-52AF-0555-8BD01FDADC55",
+          "size": 1289016,
+          "url": "https://coy-licence.sheitanlevrai.workers.dev/file/cb67facb459d66eef0620346d484c81468a5fd581280d5d59cff1e8d48f007f6",
+          "sha256": "cb67facb459d66eef0620346d484c81468a5fd581280d5d59cff1e8d48f007f6",
+          "original_sha256": "3fc45443ff45c05787f81cf97e932902acf5351f99a9a35a092bccb12b8680f6"
+        }
+      ],
+      "live": {
+        "url": "https://coy-licence.sheitanlevrai.workers.dev/file/962ff69016e07c52c2f0f897fcb7c95d9ac986b33ca763b00e51d666b1c23ca4",
+        "sha256": "962ff69016e07c52c2f0f897fcb7c95d9ac986b33ca763b00e51d666b1c23ca4",
+        "size": 6833
+      }
+    },
+    {
+      "guid": "6CEB84EE-0ABC-B2A9-5610-878512A9D1DC",
+      "size": 86664,
+      "version": "2.8.1",
+      "game_update": "30 Oct 2026",
+      "url": "https://coy-licence.sheitanlevrai.workers.dev/file/622d81aeeceed6e471ab334fe32871bffb9be8ced88ace2d180536217114e0c3",
+      "sha256": "622d81aeeceed6e471ab334fe32871bffb9be8ced88ace2d180536217114e0c3",
+      "original_sha256": "3bdc8e3e8f4d773cffb64b2957744845575eacd524850ad445b13cf76c43c2f1",
+      "extras": [
+        {
+          "path": "franchisetuning/franchisetuning_postrelease.iff",
+          "guid": "4E9C67A2-D0C8-314E-82CF-37CAE101A012",
+          "size": 1289000,
+          "url": "https://coy-licence.sheitanlevrai.workers.dev/file/04da87a8e031812ba0404985ce2c84ed9943e534db3249c8597787483454a4b6",
+          "sha256": "04da87a8e031812ba0404985ce2c84ed9943e534db3249c8597787483454a4b6",
+          "original_sha256": "b14b91bd6617fde6005fe02aca31e4c08b4175b8aceef770343e3adae64342e3"
+        }
+      ],
+      "game_files": [
+        {
+          "path": "mods/ai_metadata/motion_coaching.iff",
+          "url": "https://raw.githubusercontent.com/Romain-dsb/CoY-Engine/main/files/v2.8/mods/ai_metadata/motion_coaching.iff",
+          "sha256": "2e9669a8efc636f5abaf3ba87d1368b190f4dc79e52af91301d4745544572382",
+          "size": 3697212,
+          "sync_path": "ai_metadata/motion_coaching.iff",
+          "sync_guid": "4E869DC2-1E3F-8E67-9B01-B8EB57F99689",
+          "sync_size": 444752
+        },
+        {
+          "path": "mods/ai_metadata/gameplantool.iff",
+          "url": "https://raw.githubusercontent.com/Romain-dsb/CoY-Engine/main/files/v2.8/mods/ai_metadata/gameplantool.iff",
+          "sha256": "ef57efe29ae932c6495e2e42380da3b7d933d2bef57876f8318d2ed253403083",
+          "size": 170494,
+          "sync_path": "ai_metadata/gameplantool.iff",
+          "sync_guid": "97EB174A-AA84-C140-26FA-EF6E773F719C",
+          "sync_size": 19968
+        }
+      ],
+      "live": {
+        "url": "https://coy-licence.sheitanlevrai.workers.dev/file/962ff69016e07c52c2f0f897fcb7c95d9ac986b33ca763b00e51d666b1c23ca4",
+        "sha256": "962ff69016e07c52c2f0f897fcb7c95d9ac986b33ca763b00e51d666b1c23ca4",
+        "size": 6833
+      }
+    },
+    {
+      "guid": "6CEB84EE-0ABC-B2A9-5610-878512A9D1DC",
+      "size": 86664,
+      "version": "2.8.1",
+      "game_update": "30 Oct 2026",
+      "url": "https://coy-licence.sheitanlevrai.workers.dev/file/622d81aeeceed6e471ab334fe32871bffb9be8ced88ace2d180536217114e0c3",
+      "sha256": "622d81aeeceed6e471ab334fe32871bffb9be8ced88ace2d180536217114e0c3",
+      "original_sha256": "3bdc8e3e8f4d773cffb64b2957744845575eacd524850ad445b13cf76c43c2f1",
+      "extras": [
+        {
+          "path": "franchisetuning/franchisetuning_postrelease.iff",
+          "guid": "4E9C67A2-D0C8-314E-82CF-37CAE101A012",
+          "size": 1289000,
+          "url": "https://coy-licence.sheitanlevrai.workers.dev/file/04da87a8e031812ba0404985ce2c84ed9943e534db3249c8597787483454a4b6",
+          "sha256": "04da87a8e031812ba0404985ce2c84ed9943e534db3249c8597787483454a4b6",
+          "original_sha256": "b14b91bd6617fde6005fe02aca31e4c08b4175b8aceef770343e3adae64342e3"
+        }
+      ],
+      "live": {
+        "url": "https://coy-licence.sheitanlevrai.workers.dev/file/962ff69016e07c52c2f0f897fcb7c95d9ac986b33ca763b00e51d666b1c23ca4",
+        "sha256": "962ff69016e07c52c2f0f897fcb7c95d9ac986b33ca763b00e51d666b1c23ca4",
+        "size": 6833
+      }
+    },
+    {
+      "guid": "97C82755-88E1-0EBA-705D-8EC4131716F4",
+      "size": 86696,
+      "version": "2.8.1",
+      "game_update": "23 Nov 2026",
+      "url": "https://coy-licence.sheitanlevrai.workers.dev/file/1ac5cf1c4f084669590c17a794ec3c5bf047ecbd7dc6d6d4fe96d756941f7a1c",
+      "sha256": "1ac5cf1c4f084669590c17a794ec3c5bf047ecbd7dc6d6d4fe96d756941f7a1c",
+      "original_sha256": "806cce87a6dea2e689d99087a533f8699786af35d07c0c745f38aef5f5b6f27e",
+      "extras": [
+        {
+          "path": "franchisetuning/franchisetuning_postrelease.iff",
+          "guid": "D11F0736-EF1A-450D-3CA9-E42E88AF04C0",
+          "size": 1298920,
+          "url": "https://coy-licence.sheitanlevrai.workers.dev/file/c540b236e8919eadc0f2d641157cdd2dd76f2b9656afd4fda98ceb057b0241c4",
+          "sha256": "c540b236e8919eadc0f2d641157cdd2dd76f2b9656afd4fda98ceb057b0241c4",
+          "original_sha256": "dcdfcd6ca42fd7ef772ae66ae2aec08b85a4009984fe6f415d7d3965141d4968"
+        }
+      ],
+      "game_files": [
+        {
+          "path": "mods/ai_metadata/motion_coaching.iff",
+          "url": "https://raw.githubusercontent.com/Romain-dsb/CoY-Engine/main/files/v2.8/mods/ai_metadata/motion_coaching.iff",
+          "sha256": "2e9669a8efc636f5abaf3ba87d1368b190f4dc79e52af91301d4745544572382",
+          "size": 3697212,
+          "sync_path": "ai_metadata/motion_coaching.iff",
+          "sync_guid": "4E869DC2-1E3F-8E67-9B01-B8EB57F99689",
+          "sync_size": 444752
+        },
+        {
+          "path": "mods/ai_metadata/gameplantool.iff",
+          "url": "https://raw.githubusercontent.com/Romain-dsb/CoY-Engine/main/files/v2.8/mods/ai_metadata/gameplantool.iff",
+          "sha256": "ef57efe29ae932c6495e2e42380da3b7d933d2bef57876f8318d2ed253403083",
+          "size": 170494,
+          "sync_path": "ai_metadata/gameplantool.iff",
+          "sync_guid": "97EB174A-AA84-C140-26FA-EF6E773F719C",
+          "sync_size": 19968
+        }
+      ],
+      "live": {
+        "url": "https://coy-licence.sheitanlevrai.workers.dev/file/962ff69016e07c52c2f0f897fcb7c95d9ac986b33ca763b00e51d666b1c23ca4",
+        "sha256": "962ff69016e07c52c2f0f897fcb7c95d9ac986b33ca763b00e51d666b1c23ca4",
+        "size": 6833
+      }
+    },
+    {
+      "guid": "97C82755-88E1-0EBA-705D-8EC4131716F4",
+      "size": 86696,
+      "version": "2.8.1",
+      "game_update": "23 Nov 2026",
+      "url": "https://coy-licence.sheitanlevrai.workers.dev/file/1ac5cf1c4f084669590c17a794ec3c5bf047ecbd7dc6d6d4fe96d756941f7a1c",
+      "sha256": "1ac5cf1c4f084669590c17a794ec3c5bf047ecbd7dc6d6d4fe96d756941f7a1c",
+      "original_sha256": "806cce87a6dea2e689d99087a533f8699786af35d07c0c745f38aef5f5b6f27e",
+      "extras": [
+        {
+          "path": "franchisetuning/franchisetuning_postrelease.iff",
+          "guid": "D11F0736-EF1A-450D-3CA9-E42E88AF04C0",
+          "size": 1298920,
+          "url": "https://coy-licence.sheitanlevrai.workers.dev/file/c540b236e8919eadc0f2d641157cdd2dd76f2b9656afd4fda98ceb057b0241c4",
+          "sha256": "c540b236e8919eadc0f2d641157cdd2dd76f2b9656afd4fda98ceb057b0241c4",
+          "original_sha256": "dcdfcd6ca42fd7ef772ae66ae2aec08b85a4009984fe6f415d7d3965141d4968"
+        }
+      ],
+      "live": {
+        "url": "https://coy-licence.sheitanlevrai.workers.dev/file/962ff69016e07c52c2f0f897fcb7c95d9ac986b33ca763b00e51d666b1c23ca4",
+        "sha256": "962ff69016e07c52c2f0f897fcb7c95d9ac986b33ca763b00e51d666b1c23ca4",
+        "size": 6833
+      }
+    },
+    {
+      "guid": "97C82755-88E1-0EBA-705D-8EC4131716F4",
+      "size": 86696,
       "version": "2.8",
       "game_update": "17 Nov 2026",
       "url": "https://coy-licence.sheitanlevrai.workers.dev/file/1ac5cf1c4f084669590c17a794ec3c5bf047ecbd7dc6d6d4fe96d756941f7a1c",
