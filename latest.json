@@ -404,7 +404,16 @@
       "url": "https://coy-licence.sheitanlevrai.workers.dev/file/1ac5cf1c4f084669590c17a794ec3c5bf047ecbd7dc6d6d4fe96d756941f7a1c",
       "sha256": "1ac5cf1c4f084669590c17a794ec3c5bf047ecbd7dc6d6d4fe96d756941f7a1c",
       "original_sha256": "806cce87a6dea2e689d99087a533f8699786af35d07c0c745f38aef5f5b6f27e",
-      "extras": [],
+      "extras": [
+        {
+          "path": "franchisetuning/franchisetuning_postrelease.iff",
+          "guid": "D11F0736-EF1A-450D-3CA9-E42E88AF04C0",
+          "size": 1298920,
+          "url": "https://coy-licence.sheitanlevrai.workers.dev/file/c540b236e8919eadc0f2d641157cdd2dd76f2b9656afd4fda98ceb057b0241c4",
+          "sha256": "c540b236e8919eadc0f2d641157cdd2dd76f2b9656afd4fda98ceb057b0241c4",
+          "original_sha256": "dcdfcd6ca42fd7ef772ae66ae2aec08b85a4009984fe6f415d7d3965141d4968"
+        }
+      ],
       "game_files": [
         {
           "path": "mods/ai_metadata/motion_coaching.iff",
@@ -439,7 +448,16 @@
       "url": "https://coy-licence.sheitanlevrai.workers.dev/file/1ac5cf1c4f084669590c17a794ec3c5bf047ecbd7dc6d6d4fe96d756941f7a1c",
       "sha256": "1ac5cf1c4f084669590c17a794ec3c5bf047ecbd7dc6d6d4fe96d756941f7a1c",
       "original_sha256": "806cce87a6dea2e689d99087a533f8699786af35d07c0c745f38aef5f5b6f27e",
-      "extras": [],
+      "extras": [
+        {
+          "path": "franchisetuning/franchisetuning_postrelease.iff",
+          "guid": "D11F0736-EF1A-450D-3CA9-E42E88AF04C0",
+          "size": 1298920,
+          "url": "https://coy-licence.sheitanlevrai.workers.dev/file/c540b236e8919eadc0f2d641157cdd2dd76f2b9656afd4fda98ceb057b0241c4",
+          "sha256": "c540b236e8919eadc0f2d641157cdd2dd76f2b9656afd4fda98ceb057b0241c4",
+          "original_sha256": "dcdfcd6ca42fd7ef772ae66ae2aec08b85a4009984fe6f415d7d3965141d4968"
+        }
+      ],
       "live": {
         "url": "https://coy-licence.sheitanlevrai.workers.dev/file/6bc3e471b7e55fc287b98adf662982fc9a0d649b80a20f8056af6468bbcb6bcf",
         "sha256": "6bc3e471b7e55fc287b98adf662982fc9a0d649b80a20f8056af6468bbcb6bcf",
@@ -2053,6 +2071,7 @@
     "53f02f2c0dcc7ffbea3781ed491daf040c65bcdef65dd9881870fa3ef7cc4550": "2.7",
     "e761c0963bb6f8bdf32c20844ef982a1db2be48a2f6a4fd26cd182d4779ce2a1": "animations 1",
     "2e9669a8efc636f5abaf3ba87d1368b190f4dc79e52af91301d4745544572382": "2.8",
-    "ef57efe29ae932c6495e2e42380da3b7d933d2bef57876f8318d2ed253403083": "2.8"
+    "ef57efe29ae932c6495e2e42380da3b7d933d2bef57876f8318d2ed253403083": "2.8",
+    "c540b236e8919eadc0f2d641157cdd2dd76f2b9656afd4fda98ceb057b0241c4": "2.8"
   }
 }
