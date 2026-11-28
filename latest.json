@@ -193,6 +193,74 @@
   ],
   "builds_v3": [
     {
+      "guid": "EC1588BD-DD2E-5E4F-5132-822395012778",
+      "size": 86696,
+      "version": "2.8.1",
+      "game_update": "27 Nov 2026",
+      "url": "https://coy-licence.sheitanlevrai.workers.dev/file/1ac5cf1c4f084669590c17a794ec3c5bf047ecbd7dc6d6d4fe96d756941f7a1c",
+      "sha256": "1ac5cf1c4f084669590c17a794ec3c5bf047ecbd7dc6d6d4fe96d756941f7a1c",
+      "original_sha256": "235d33ace7d17aa237914a6dd484efff74a432bd70abe7498df28fc05972fab6",
+      "extras": [
+        {
+          "path": "franchisetuning/franchisetuning_postrelease.iff",
+          "guid": "AB06F1A8-0531-EAD2-53CE-87EAED751228",
+          "size": 1313968,
+          "url": "https://coy-licence.sheitanlevrai.workers.dev/file/cc296cde6142aba817dc998db064c95836bbe223c07c5251c7a3e177a92e3056",
+          "sha256": "cc296cde6142aba817dc998db064c95836bbe223c07c5251c7a3e177a92e3056",
+          "original_sha256": "ee8d5e2da26532ea8b779f954dd2cf90cf4dc585c84df9c90bcc48b221bb4caa"
+        }
+      ],
+      "game_files": [
+        {
+          "path": "mods/ai_metadata/motion_coaching.iff",
+          "url": "https://raw.githubusercontent.com/Romain-dsb/CoY-Engine/main/files/v2.8/mods/ai_metadata/motion_coaching.iff",
+          "sha256": "2e9669a8efc636f5abaf3ba87d1368b190f4dc79e52af91301d4745544572382",
+          "size": 3697212,
+          "sync_path": "ai_metadata/motion_coaching.iff",
+          "sync_guid": "4E869DC2-1E3F-8E67-9B01-B8EB57F99689",
+          "sync_size": 444752
+        },
+        {
+          "path": "mods/ai_metadata/gameplantool.iff",
+          "url": "https://raw.githubusercontent.com/Romain-dsb/CoY-Engine/main/files/v2.8/mods/ai_metadata/gameplantool.iff",
+          "sha256": "ef57efe29ae932c6495e2e42380da3b7d933d2bef57876f8318d2ed253403083",
+          "size": 170494,
+          "sync_path": "ai_metadata/gameplantool.iff",
+          "sync_guid": "97EB174A-AA84-C140-26FA-EF6E773F719C",
+          "sync_size": 19968
+        }
+      ],
+      "live": {
+        "url": "https://coy-licence.sheitanlevrai.workers.dev/file/534501082b0ea9c518279dbd2d5acbd64c028fc54d0ca6e218aca5a7756399a2",
+        "sha256": "534501082b0ea9c518279dbd2d5acbd64c028fc54d0ca6e218aca5a7756399a2",
+        "size": 6938
+      }
+    },
+    {
+      "guid": "EC1588BD-DD2E-5E4F-5132-822395012778",
+      "size": 86696,
+      "version": "2.8.1",
+      "game_update": "27 Nov 2026",
+      "url": "https://coy-licence.sheitanlevrai.workers.dev/file/1ac5cf1c4f084669590c17a794ec3c5bf047ecbd7dc6d6d4fe96d756941f7a1c",
+      "sha256": "1ac5cf1c4f084669590c17a794ec3c5bf047ecbd7dc6d6d4fe96d756941f7a1c",
+      "original_sha256": "235d33ace7d17aa237914a6dd484efff74a432bd70abe7498df28fc05972fab6",
+      "extras": [
+        {
+          "path": "franchisetuning/franchisetuning_postrelease.iff",
+          "guid": "AB06F1A8-0531-EAD2-53CE-87EAED751228",
+          "size": 1313968,
+          "url": "https://coy-licence.sheitanlevrai.workers.dev/file/cc296cde6142aba817dc998db064c95836bbe223c07c5251c7a3e177a92e3056",
+          "sha256": "cc296cde6142aba817dc998db064c95836bbe223c07c5251c7a3e177a92e3056",
+          "original_sha256": "ee8d5e2da26532ea8b779f954dd2cf90cf4dc585c84df9c90bcc48b221bb4caa"
+        }
+      ],
+      "live": {
+        "url": "https://coy-licence.sheitanlevrai.workers.dev/file/534501082b0ea9c518279dbd2d5acbd64c028fc54d0ca6e218aca5a7756399a2",
+        "sha256": "534501082b0ea9c518279dbd2d5acbd64c028fc54d0ca6e218aca5a7756399a2",
+        "size": 6938
+      }
+    },
+    {
       "guid": "97C82755-88E1-0EBA-705D-8EC4131716F4",
       "size": 86696,
       "version": "2.8.1",
@@ -2344,6 +2412,7 @@
     "e761c0963bb6f8bdf32c20844ef982a1db2be48a2f6a4fd26cd182d4779ce2a1": "animations 1",
     "2e9669a8efc636f5abaf3ba87d1368b190f4dc79e52af91301d4745544572382": "2.8",
     "ef57efe29ae932c6495e2e42380da3b7d933d2bef57876f8318d2ed253403083": "2.8",
-    "c540b236e8919eadc0f2d641157cdd2dd76f2b9656afd4fda98ceb057b0241c4": "2.8"
+    "c540b236e8919eadc0f2d641157cdd2dd76f2b9656afd4fda98ceb057b0241c4": "2.8",
+    "cc296cde6142aba817dc998db064c95836bbe223c07c5251c7a3e177a92e3056": "2.8.1"
   }
 }
